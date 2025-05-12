@@ -1,1 +1,1 @@
-# Food-ordering-website-using-HTML-CSS-JS-MySQL-PHP
+# Food-ordering-website-using-HTML-CSS-JS
